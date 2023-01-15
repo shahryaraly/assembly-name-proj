@@ -5,8 +5,8 @@ another closest code written back in 2015 when was in 3rd year of graduation to 
 
 learnt alot about how does basic operation works internally and also teaches us to write efficient code :) 
 
-### How It Looks Like
-![pacman view 2D](https://github.com/shahryaraly/assembly-name-proj/blob/main/assembly-view.png?raw=true)
+### How Video Demo Looks Like
+[![pacman view 2D](https://github.com/shahryaraly/assembly-name-proj/blob/main/assembly-view.png?raw=true)](https://youtu.be/VVZYfVLPId0)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
